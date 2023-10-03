@@ -1,0 +1,69 @@
+/* 
+    Created on : 3 oct 2023, 15:30:54
+    Author     : antho
+*/
+#barralateral{ 
+    height: 81%;
+    top:12%;
+    left:0;
+    width: 20%;
+    position: absolute;
+    background-color: burlywood;
+
+}
+
+.contenido{
+    position: absolute;
+    height: 81%;
+    top:12%;
+    left:20%;
+    width: 80%;
+    background-color: gainsboro;
+    padding: 10%;
+}
+
+#piepagina{
+    position: absolute;
+    height: 7%;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.imgfondo{
+    left: 0;
+    top: 0;
+    height: auto;
+    width: 100%;
+}
+
+.instrumento-item{
+    margin-right: 2%;
+}
+
+.secciones{
+    position: absolute;
+    height: 81%;
+    top:12%;
+    left:20%;
+    width: 80%;
+    background-color: gainsboro;
+    padding: 6%;
+}
+
+.imgcentro{
+    margin-left: 30%;
+}
+
+.contenido0{
+    position: absolute;
+    height: 90%;
+    top:10%;
+    left:0%;
+    width: 100%;
+    background-color: gainsboro;
+    padding: 10%;
+}
